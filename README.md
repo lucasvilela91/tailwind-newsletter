@@ -8,7 +8,8 @@ Um site que simula a tela de inscrição da newsletter da Alura, um serviço que
 
 ## Mobile
 
-![image](https://github.com/user-attachments/assets/54e8b342-9f16-4ce4-b8e4-b816b0ef97d6)
+![image](https://github.com/user-attachments/assets/1e5f33a7-10d4-4c40-b799-0d8c752718df)
+
 
 ## Tecnologias
 
